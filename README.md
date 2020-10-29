@@ -3,7 +3,7 @@
 Very basic script to intercept CTCP version requests and respond with a version from versions.txt. 
 
 # Installation
-Copy "randomverion.pl" to $irssidir/scripts, making the directory if it does not exist.
+Copy "randomversion.pl" to $irssidir/scripts, making the directory if it does not exist.
 Copy "versions.txt" to the root $irssidir. This is the same directory where the config file is usually found. 
 
 To run on startup, copy the file to $irssidir/scripts/autorun, again making the directory if it does not exist.
