@@ -1,6 +1,6 @@
 # Random Version for Irssi
 
-Very basic script to intercept CTCP version requests and respond with a version from versions.txt. 
+Very basic script to intercept CTCP version requests and respond with a random version from versions.txt. 
 
 # Installation
 Copy "randomversion.pl" to $irssidir/scripts, making the directory if it does not exist.
